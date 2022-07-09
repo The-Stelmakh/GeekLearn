@@ -3,7 +3,7 @@
 
 class Person 
 {
-    std::string name;
+    std::string name; // 
     std::uint8_t age;
     std::string gender;
     std::uint8_t weight;
